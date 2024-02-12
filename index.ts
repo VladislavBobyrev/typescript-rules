@@ -15,3 +15,5 @@ const n: null = null
 const getUser = ():void => {
   console.log('Vladislav')
 }
+
+const list: Array<number> = [0, 1]
